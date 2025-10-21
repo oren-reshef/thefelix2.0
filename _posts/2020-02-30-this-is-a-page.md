@@ -1,3 +1,4 @@
+---
 layout: page
 title: Scaling Compliance
 subtitle: My upcoming book
