@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scaling Compliance
+title: Scaling Compliance Chapter 1
 subtitle: My upcoming book
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
