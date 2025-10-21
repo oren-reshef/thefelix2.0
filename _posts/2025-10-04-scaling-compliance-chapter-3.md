@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Scaling Compliance Chapter 1
 subtitle: My upcoming book
 cover-img: /assets/img/path.jpg
