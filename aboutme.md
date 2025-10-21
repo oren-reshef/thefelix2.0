@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Oren Reshef, SSDLC-Process owner, Developer Experience Tribe
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Author and maintainer of the SSDLC Process and Test Principles, guiding developers in implementing a quality, compliant and secure DevOps process.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This is me presenting at [SAST30](https://sast30.confetti.events/)
 
-What else do you need?
+![Crepe](/assets/img/Oren_SAST30.jpg)
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
