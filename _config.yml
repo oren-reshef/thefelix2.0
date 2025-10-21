@@ -51,7 +51,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "orenreshef@duck.com"
-  github: oren-reshef
+  #github: oren-reshef
   linkedin: oren-reshef
 #  gitlab: yourname
 
